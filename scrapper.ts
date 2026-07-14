@@ -1,5 +1,6 @@
 import { firefox } from 'playwright';
 import fs from 'node:fs/promises';
+import crypto from 'node:crypto';
 
 async function runScraper() {
   const browser = await firefox.launch({ headless: true });
@@ -33,10 +34,15 @@ async function runScraper() {
   console.log('[*] dfp selecionado');
 
   console.log('[*] LISTA DE ITENS:');
-  console.log(items);
+  
+  const hashaArquivo = crypto.createHash('sha256').update(JSON.stringify(items)).digest('hex');
+  const nomeArquivo = hashaArquivo + '.json';
+  console.log(`[*] Salvando arquivo: ${nomeArquivo}`);
 
   console.log('[*] Scraper finalizado');
   await browser.close();
+
+
 }
 
 runScraper().catch(console.error);

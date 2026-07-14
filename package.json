@@ -1,18 +1,14 @@
 {
   "name": "b3-scraping-ts",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {},
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "type": "module",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "start": "node scraper.ts"
+  },
   "devDependencies": {
-    "@playwright/test": "^1.61.1",
     "@types/node": "^26.1.1",
     "playwright": "^1.61.1",
-    "ts-node": "^10.9.2",
     "typescript": "^7.0.2"
   }
 }
