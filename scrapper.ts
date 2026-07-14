@@ -18,7 +18,7 @@ async function runScraper() {
   await frame.locator('#docCategory').click();
   await frame.locator('id=4').click();
 
-  
+
 
   const respostaPromise = page.waitForResponse(
     (response) => response.url().includes('sistemaswebb3-listados.b3.com.br')
@@ -28,16 +28,22 @@ async function runScraper() {
   const resposta = await respostaPromise;
   const jsonResponse = await resposta.json();
   const items = jsonResponse.results || [];
-  
+
   console.log(`Encontrados ${items.length} itens.`);
 
   console.log('[*] dfp selecionado');
 
   console.log('[*] LISTA DE ITENS:');
-  
+
   const hashaArquivo = crypto.createHash('sha256').update(JSON.stringify(items)).digest('hex');
   const nomeArquivo = hashaArquivo + '.json';
-  console.log(`[*] Salvando arquivo: ${nomeArquivo}`);
+
+  try {
+    console.log(`[*] Salvando arquivo: ${nomeArquivo}`);
+    await fs.writeFile(`./data/${nomeArquivo}`, JSON.stringify(items, null, 2));
+  } catch (error) {
+    console.error(`Erro ao salvar o arquivo: ${error}`);
+  }
 
   console.log('[*] Scraper finalizado');
   await browser.close();
