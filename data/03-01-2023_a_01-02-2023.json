@@ -1,0 +1,117 @@
+[
+  {
+    "company": {
+      "codeCVM": "024120",
+      "companyName": "ARGO ENERGIA EMPREENDIMENTOS E PARTICIPAÇÕES S/A",
+      "tradingName": "ARGO ENERGIA"
+    },
+    "dateReference": "31/12/2022",
+    "delivery": "Apresentação",
+    "deliveryDate": "31/01/2023 22:02:47",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=123301",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=123301&numVersao=1&numProtocolo=024120DFP311220220100123301-72&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2023-01-31T22:02:47",
+    "dateTimeReference": "2022-12-31T00:00:00",
+    "tradingName": "ARGO ENERGIA EMPREENDIMENTOS E PARTICIPAÇÕES S/A"
+  },
+  {
+    "company": {
+      "codeCVM": "024210",
+      "companyName": "ARGO TRANSMISSÃO DE ENERGIA S/A",
+      "tradingName": "ARGOTRANSM"
+    },
+    "dateReference": "31/12/2022",
+    "delivery": "Apresentação",
+    "deliveryDate": "01/02/2023 18:54:14",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=123318",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=123318&numVersao=1&numProtocolo=024210DFP311220220100123318-61&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2023-02-01T18:54:14",
+    "dateTimeReference": "2022-12-31T00:00:00",
+    "tradingName": "ARGO TRANSMISSÃO DE ENERGIA S/A"
+  },
+  {
+    "company": {
+      "codeCVM": "027103",
+      "companyName": "China Three Gorges Brasil Energia S.A.",
+      "tradingName": "CHINA THREE"
+    },
+    "dateReference": "31/12/2021",
+    "delivery": "Apresentação",
+    "deliveryDate": "25/01/2023 17:31:30",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=122362",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=122362&numVersao=1&numProtocolo=094862DFP311220210100122362-63&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2023-01-25T17:31:30",
+    "dateTimeReference": "2021-12-31T00:00:00",
+    "tradingName": "China Three Gorges Brasil Energia S.A."
+  },
+  {
+    "company": {
+      "codeCVM": "021733",
+      "companyName": "CIELO S.A. -  Instituição de Pagamento",
+      "tradingName": "CIELO"
+    },
+    "dateReference": "31/12/2022",
+    "delivery": "Apresentação",
+    "deliveryDate": "26/01/2023 18:46:48",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=123247",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=123247&numVersao=1&numProtocolo=021733DFP311220220100123247-67&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2023-01-26T18:46:48",
+    "dateTimeReference": "2022-12-31T00:00:00",
+    "tradingName": "CIELO S.A. -  Instituição de Pagamento"
+  },
+  {
+    "company": {
+      "codeCVM": "007510",
+      "companyName": "ROMI S.A.",
+      "tradingName": "ROMI"
+    },
+    "dateReference": "31/12/2022",
+    "delivery": "Apresentação",
+    "deliveryDate": "31/01/2023 19:22:18",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=123298",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=123298&numVersao=1&numProtocolo=007510DFP311220220100123298-69&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2023-01-31T19:22:18",
+    "dateTimeReference": "2022-12-31T00:00:00",
+    "tradingName": "ROMI S.A."
+  }
+]

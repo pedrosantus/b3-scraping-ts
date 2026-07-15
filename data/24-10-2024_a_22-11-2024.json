@@ -1,0 +1,94 @@
+[
+  {
+    "company": {
+      "codeCVM": "021032",
+      "companyName": "ALGAR TELECOM S/A",
+      "tradingName": "ALGAR TELEC"
+    },
+    "dateReference": "31/12/2023",
+    "delivery": "Reapresentação",
+    "deliveryDate": "14/11/2024 23:44:32",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "2",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=143369",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=143369&numVersao=2&numProtocolo=021032DFP311220230200143369-65&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2024-11-14T23:44:32",
+    "dateTimeReference": "2023-12-31T00:00:00",
+    "tradingName": "ALGAR TELECOM S/A"
+  },
+  {
+    "company": {
+      "codeCVM": "027707",
+      "companyName": "Automob Participações S.A. ",
+      "tradingName": "AUTOMOB"
+    },
+    "dateReference": "31/12/2023",
+    "delivery": "Apresentação",
+    "deliveryDate": "31/10/2024 19:00:16",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=141876",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=141876&numVersao=1&numProtocolo=096016DFP311220230100141876-79&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2024-10-31T19:00:16",
+    "dateTimeReference": "2023-12-31T00:00:00",
+    "tradingName": "Automob Participações S.A. "
+  },
+  {
+    "company": {
+      "codeCVM": "027790",
+      "companyName": "CONCESSIONARIA DAS RODOVIAS DO LESTE MS S/A",
+      "tradingName": "RODOLESTE"
+    },
+    "dateReference": "31/12/2023",
+    "delivery": "Apresentação",
+    "deliveryDate": "29/10/2024 17:41:17",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=142401",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=142401&numVersao=1&numProtocolo=095982DFP311220230100142401-70&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2024-10-29T17:41:17",
+    "dateTimeReference": "2023-12-31T00:00:00",
+    "tradingName": "CONCESSIONARIA DAS RODOVIAS DO LESTE MS S/A"
+  },
+  {
+    "company": {
+      "codeCVM": "027782",
+      "companyName": "Concessionária Rodoanel Norte SPE S.A.",
+      "tradingName": "RODONORTE"
+    },
+    "dateReference": "31/12/2023",
+    "delivery": "Apresentação",
+    "deliveryDate": "08/11/2024 17:53:23",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=142802",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=142802&numVersao=1&numProtocolo=095818DFP311220230100142802-62&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2024-11-08T17:53:23",
+    "dateTimeReference": "2023-12-31T00:00:00",
+    "tradingName": "Concessionária Rodoanel Norte SPE S.A."
+  }
+]

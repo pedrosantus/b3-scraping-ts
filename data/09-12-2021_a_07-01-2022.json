@@ -1,0 +1,140 @@
+[
+  {
+    "company": {
+      "codeCVM": "026662",
+      "companyName": "Argo V Transmissão de Energia S.A.",
+      "tradingName": "ARGOVTRANS"
+    },
+    "dateReference": "31/12/2020",
+    "delivery": "Apresentação",
+    "deliveryDate": "23/12/2021 16:00:04",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=110935",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=110935&numVersao=1&numProtocolo=094234DFP311220200100110935-77&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2021-12-23T16:00:04",
+    "dateTimeReference": "2020-12-31T00:00:00",
+    "tradingName": "Argo V Transmissão de Energia S.A."
+  },
+  {
+    "company": {
+      "codeCVM": "026670",
+      "companyName": "Argo VI Transmissão de Energia S.A.",
+      "tradingName": "ARGOVITRANS"
+    },
+    "dateReference": "31/12/2020",
+    "delivery": "Apresentação",
+    "deliveryDate": "23/12/2021 12:28:31",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=110920",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=110920&numVersao=1&numProtocolo=094226DFP311220200100110920-76&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2021-12-23T12:28:31",
+    "dateTimeReference": "2020-12-31T00:00:00",
+    "tradingName": "Argo VI Transmissão de Energia S.A."
+  },
+  {
+    "company": {
+      "codeCVM": "026530",
+      "companyName": "CENCOSUD BRASIL COMERCIAL S.A.",
+      "tradingName": "CENCOSUD BR"
+    },
+    "dateReference": "31/12/2020",
+    "delivery": "Apresentação",
+    "deliveryDate": "15/12/2021 23:33:30",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=108418",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=108418&numVersao=1&numProtocolo=093416DFP311220200100108418-74&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2021-12-15T23:33:30",
+    "dateTimeReference": "2020-12-31T00:00:00",
+    "tradingName": "CENCOSUD BRASIL COMERCIAL S.A."
+  },
+  {
+    "company": {
+      "codeCVM": "026700",
+      "companyName": "EUROFARMA LABORATÓRIOS S.A.",
+      "tradingName": "EUROFARMA SA"
+    },
+    "dateReference": "31/12/2020",
+    "delivery": "Apresentação",
+    "deliveryDate": "16/12/2021 16:23:44",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=110780",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=110780&numVersao=1&numProtocolo=094161DFP311220200100110780-82&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2021-12-16T16:23:44",
+    "dateTimeReference": "2020-12-31T00:00:00",
+    "tradingName": "EUROFARMA LABORATÓRIOS S.A."
+  },
+  {
+    "company": {
+      "codeCVM": "026719",
+      "companyName": "MANAUS TRANSMISSORA DE ENERGIA S.A",
+      "tradingName": "MANAUS TRANS"
+    },
+    "dateReference": "31/12/2020",
+    "delivery": "Apresentação",
+    "deliveryDate": "17/12/2021 17:37:30",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=110801",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=110801&numVersao=1&numProtocolo=094218DFP311220200100110801-80&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2021-12-17T17:37:30",
+    "dateTimeReference": "2020-12-31T00:00:00",
+    "tradingName": "MANAUS TRANSMISSORA DE ENERGIA S.A"
+  },
+  {
+    "company": {
+      "codeCVM": "026654",
+      "companyName": "Transmissora José Maria de Macedo de Eletricidade S.A.",
+      "tradingName": "ARGOTRANSVII"
+    },
+    "dateReference": "31/12/2020",
+    "delivery": "Apresentação",
+    "deliveryDate": "23/12/2021 14:50:51",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=110926",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=110926&numVersao=1&numProtocolo=094242DFP311220200100110926-75&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2021-12-23T14:50:51",
+    "dateTimeReference": "2020-12-31T00:00:00",
+    "tradingName": "Transmissora José Maria de Macedo de Eletricidade S.A."
+  }
+]

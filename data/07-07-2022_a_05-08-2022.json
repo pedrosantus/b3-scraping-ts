@@ -1,0 +1,71 @@
+[
+  {
+    "company": {
+      "codeCVM": "026999",
+      "companyName": "BRK Ambiental – Região Metropolitana de Maceió S.A.",
+      "tradingName": "BRK AMBIENTA"
+    },
+    "dateReference": "31/12/2021",
+    "delivery": "Apresentação",
+    "deliveryDate": "22/07/2022 16:50:27",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=118624",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=118624&numVersao=1&numProtocolo=094650DFP311220210100118624-79&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2022-07-22T16:50:27",
+    "dateTimeReference": "2021-12-31T00:00:00",
+    "tradingName": "BRK Ambiental – Região Metropolitana de Maceió S.A."
+  },
+  {
+    "company": {
+      "codeCVM": "026948",
+      "companyName": "Elea Digital Infraestrutura e Redes de Telecomunicações S.A.",
+      "tradingName": "ELEA DIGITAL"
+    },
+    "dateReference": "31/12/2021",
+    "delivery": "Apresentação",
+    "deliveryDate": "08/07/2022 13:17:35",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=118365",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=118365&numVersao=1&numProtocolo=094641DFP311220210100118365-73&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2022-07-08T13:17:35",
+    "dateTimeReference": "2021-12-31T00:00:00",
+    "tradingName": "Elea Digital Infraestrutura e Redes de Telecomunicações S.A."
+  },
+  {
+    "company": {
+      "codeCVM": "026921",
+      "companyName": "REGENERA RIO S.A.",
+      "tradingName": "CICLUS AMBIE"
+    },
+    "dateReference": "31/12/2021",
+    "delivery": "Apresentação",
+    "deliveryDate": "13/07/2022 19:32:28",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=114236",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=114236&numVersao=1&numProtocolo=094552DFP311220210100114236-74&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2022-07-13T19:32:28",
+    "dateTimeReference": "2021-12-31T00:00:00",
+    "tradingName": "REGENERA RIO S.A."
+  }
+]

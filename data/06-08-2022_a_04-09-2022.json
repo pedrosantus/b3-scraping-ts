@@ -1,0 +1,94 @@
+[
+  {
+    "company": {
+      "codeCVM": "020036",
+      "companyName": "BRASILAGRO - CIA BRAS DE PROP AGRICOLAS",
+      "tradingName": "BRASILAGRO"
+    },
+    "dateReference": "30/06/2022",
+    "delivery": "Apresentação",
+    "deliveryDate": "01/09/2022 23:00:45",
+    "status": "Inativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=120419",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=120419&numVersao=1&numProtocolo=020036DFP300620220100120419-72&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2022-09-01T23:00:45",
+    "dateTimeReference": "2022-06-30T00:00:00",
+    "tradingName": "BRASILAGRO - CIA BRAS DE PROP AGRICOLAS"
+  },
+  {
+    "company": {
+      "codeCVM": "024830",
+      "companyName": "BRK AMBIENTAL PARTICIPAÇÕES S.A.",
+      "tradingName": "BRK AMBI PAR"
+    },
+    "dateReference": "31/12/2021",
+    "delivery": "Reapresentação",
+    "deliveryDate": "11/08/2022 18:15:11",
+    "status": "Inativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "2",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=119561",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=119561&numVersao=2&numProtocolo=024830DFP311220210200119561-73&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2022-08-11T18:15:11",
+    "dateTimeReference": "2021-12-31T00:00:00",
+    "tradingName": "BRK AMBIENTAL PARTICIPAÇÕES S.A."
+  },
+  {
+    "company": {
+      "codeCVM": "009415",
+      "companyName": "SAO PAULO TURISMO S.A.",
+      "tradingName": "SPTURIS"
+    },
+    "dateReference": "31/12/2021",
+    "delivery": "Reapresentação",
+    "deliveryDate": "17/08/2022 13:39:19",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "3",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=120088",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=120088&numVersao=3&numProtocolo=009415DFP311220210300120088-78&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2022-08-17T13:39:19",
+    "dateTimeReference": "2021-12-31T00:00:00",
+    "tradingName": "SAO PAULO TURISMO S.A."
+  },
+  {
+    "company": {
+      "codeCVM": "027022",
+      "companyName": "V. Tal – Rede Neutra de Telecomunicações S.A.",
+      "tradingName": "BR TELECMULT"
+    },
+    "dateReference": "31/12/2021",
+    "delivery": "Apresentação",
+    "deliveryDate": "30/08/2022 23:33:43",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=120337",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=120337&numVersao=1&numProtocolo=094714DFP311220210100120337-71&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2022-08-30T23:33:43",
+    "dateTimeReference": "2021-12-31T00:00:00",
+    "tradingName": "V. Tal – Rede Neutra de Telecomunicações S.A."
+  }
+]

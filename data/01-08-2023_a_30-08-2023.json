@@ -1,0 +1,94 @@
+[
+  {
+    "company": {
+      "codeCVM": "014206",
+      "companyName": "BRB BANCO DE BRASILIA S.A.",
+      "tradingName": "BRB BANCO"
+    },
+    "dateReference": "31/12/2022",
+    "delivery": "Reapresentação",
+    "deliveryDate": "07/08/2023 15:56:43",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "3",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=129770",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=129770&numVersao=3&numProtocolo=014206DFP311220220300129770-76&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2023-08-07T15:56:43",
+    "dateTimeReference": "2022-12-31T00:00:00",
+    "tradingName": "BRB BANCO DE BRASILIA S.A."
+  },
+  {
+    "company": {
+      "codeCVM": "014206",
+      "companyName": "BRB BANCO DE BRASILIA S.A.",
+      "tradingName": "BRB BANCO"
+    },
+    "dateReference": "31/12/2022",
+    "delivery": "Reapresentação",
+    "deliveryDate": "07/08/2023 14:32:35",
+    "status": "Inativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "2",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=129767",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=129767&numVersao=2&numProtocolo=014206DFP311220220200129767-67&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2023-08-07T14:32:35",
+    "dateTimeReference": "2022-12-31T00:00:00",
+    "tradingName": "BRB BANCO DE BRASILIA S.A."
+  },
+  {
+    "company": {
+      "codeCVM": "019100",
+      "companyName": "CONTAX PARTICIPAÇÕES S.A. - EM RECUPERAÇÃO JUDICIAL",
+      "tradingName": "CONTAX"
+    },
+    "dateReference": "31/12/2022",
+    "delivery": "Reapresentação",
+    "deliveryDate": "23/08/2023 16:45:47",
+    "status": "Inativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "2",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=130637",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=130637&numVersao=2&numProtocolo=019100DFP311220220200130637-60&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2023-08-23T16:45:47",
+    "dateTimeReference": "2022-12-31T00:00:00",
+    "tradingName": "CONTAX PARTICIPAÇÕES S.A. - EM RECUPERAÇÃO JUDICIAL"
+  },
+  {
+    "company": {
+      "codeCVM": "025070",
+      "companyName": "Plano & Plano Desenvolvimento Imobiliário S.A.",
+      "tradingName": "PLANOEPLANO"
+    },
+    "dateReference": "31/12/2022",
+    "delivery": "Reapresentação",
+    "deliveryDate": "01/08/2023 01:04:28",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "2",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=129646",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=129646&numVersao=2&numProtocolo=025070DFP311220220200129646-65&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2023-08-01T01:04:28",
+    "dateTimeReference": "2022-12-31T00:00:00",
+    "tradingName": "Plano & Plano Desenvolvimento Imobiliário S.A."
+  }
+]

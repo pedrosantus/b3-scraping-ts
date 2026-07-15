@@ -1,0 +1,140 @@
+[
+  {
+    "company": {
+      "codeCVM": "025658",
+      "companyName": "Agrogalaxy Participações S.A. - Em Recuperação Judicial",
+      "tradingName": "AGROGALAXY"
+    },
+    "dateReference": "31/12/2019",
+    "delivery": "Apresentação",
+    "deliveryDate": "31/12/2020 06:15:46",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=99422",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=99422&numVersao=1&numProtocolo=092347DFP311220190100099422-79&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2020-12-31T06:15:46",
+    "dateTimeReference": "2019-12-31T00:00:00",
+    "tradingName": "Agrogalaxy Participações S.A. - Em Recuperação Judicial"
+  },
+  {
+    "company": {
+      "codeCVM": "025542",
+      "companyName": "CVLB Brasil S.A em Recuperação Judical",
+      "tradingName": "LE BISCUIT"
+    },
+    "dateReference": "31/12/2019",
+    "delivery": "Apresentação",
+    "deliveryDate": "28/12/2020 17:06:37",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=96632",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=96632&numVersao=1&numProtocolo=091774DFP311220190100096632-72&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2020-12-28T17:06:37",
+    "dateTimeReference": "2019-12-31T00:00:00",
+    "tradingName": "CVLB Brasil S.A em Recuperação Judical"
+  },
+  {
+    "company": {
+      "codeCVM": "015458",
+      "companyName": "EMBPAR PARTICIPAÇÕES S/A",
+      "tradingName": "EMBPAR S/A"
+    },
+    "dateReference": "31/12/2019",
+    "delivery": "Reapresentação",
+    "deliveryDate": "21/12/2020 15:34:26",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "2",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=99295",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=99295&numVersao=2&numProtocolo=015458DFP311220190200099295-73&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2020-12-21T15:34:26",
+    "dateTimeReference": "2019-12-31T00:00:00",
+    "tradingName": "EMBPAR PARTICIPAÇÕES S/A"
+  },
+  {
+    "company": {
+      "codeCVM": "025461",
+      "companyName": "GRUPO TOKY S.A. - EM RECUPERAÇÃO JUDICIAL",
+      "tradingName": "GRUPO TOKY"
+    },
+    "dateReference": "31/12/2019",
+    "delivery": "Apresentação",
+    "deliveryDate": "12/01/2021 12:10:49",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=99050",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=99050&numVersao=1&numProtocolo=092657DFP311220190100099050-89&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2021-01-12T12:10:49",
+    "dateTimeReference": "2019-12-31T00:00:00",
+    "tradingName": "GRUPO TOKY S.A. - EM RECUPERAÇÃO JUDICIAL"
+  },
+  {
+    "company": {
+      "codeCVM": "025402",
+      "companyName": "HBR Realty Empreendimentos Imobiliários S.A.",
+      "tradingName": "HBR REALTY"
+    },
+    "dateReference": "31/12/2019",
+    "delivery": "Apresentação",
+    "deliveryDate": "15/12/2020 15:56:00",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=96531",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=96531&numVersao=1&numProtocolo=091561DFP311220190100096531-72&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2020-12-15T15:56:00",
+    "dateTimeReference": "2019-12-31T00:00:00",
+    "tradingName": "HBR Realty Empreendimentos Imobiliários S.A."
+  },
+  {
+    "company": {
+      "codeCVM": "025550",
+      "companyName": "Orizon Valorização de Resíduos S.A.",
+      "tradingName": "ORIZON"
+    },
+    "dateReference": "31/12/2019",
+    "delivery": "Apresentação",
+    "deliveryDate": "16/12/2020 11:20:07",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=99223",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=99223&numVersao=1&numProtocolo=091855DFP311220190100099223-78&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2020-12-16T11:20:07",
+    "dateTimeReference": "2019-12-31T00:00:00",
+    "tradingName": "Orizon Valorização de Resíduos S.A."
+  }
+]

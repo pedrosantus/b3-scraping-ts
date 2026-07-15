@@ -1,0 +1,94 @@
+[
+  {
+    "company": {
+      "codeCVM": "027030",
+      "companyName": "Althaia S.A. Indústria Farmacêutica",
+      "tradingName": "ALTHAIA SA"
+    },
+    "dateReference": "31/12/2021",
+    "delivery": "Apresentação",
+    "deliveryDate": "09/09/2022 17:13:16",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=120522",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=120522&numVersao=1&numProtocolo=094781DFP311220210100120522-61&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2022-09-09T17:13:16",
+    "dateTimeReference": "2021-12-31T00:00:00",
+    "tradingName": "Althaia S.A. Indústria Farmacêutica"
+  },
+  {
+    "company": {
+      "codeCVM": "026980",
+      "companyName": "Borrachas Vipal S.A.",
+      "tradingName": "VIPAL"
+    },
+    "dateReference": "31/12/2021",
+    "delivery": "Apresentação",
+    "deliveryDate": "23/09/2022 15:53:02",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=113235",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=113235&numVersao=1&numProtocolo=094498DFP311220210100113235-76&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2022-09-23T15:53:02",
+    "dateTimeReference": "2021-12-31T00:00:00",
+    "tradingName": "Borrachas Vipal S.A."
+  },
+  {
+    "company": {
+      "codeCVM": "026972",
+      "companyName": "Credgrid Serviços Financeiros S.A.",
+      "tradingName": "CREDGRIDSERV"
+    },
+    "dateReference": "31/12/2021",
+    "delivery": "Apresentação",
+    "deliveryDate": "30/09/2022 21:13:36",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=119736",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=119736&numVersao=1&numProtocolo=094676DFP311220210100119736-70&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2022-09-30T21:13:36",
+    "dateTimeReference": "2021-12-31T00:00:00",
+    "tradingName": "Credgrid Serviços Financeiros S.A."
+  },
+  {
+    "company": {
+      "codeCVM": "009539",
+      "companyName": "PETTENATI S.A. INDUSTRIA TEXTIL",
+      "tradingName": "PETTENATI"
+    },
+    "dateReference": "30/06/2022",
+    "delivery": "Apresentação",
+    "deliveryDate": "27/09/2022 09:31:53",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=120758",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=120758&numVersao=1&numProtocolo=009539DFP300620220100120758-78&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2022-09-27T09:31:53",
+    "dateTimeReference": "2022-06-30T00:00:00",
+    "tradingName": "PETTENATI S.A. INDUSTRIA TEXTIL"
+  }
+]

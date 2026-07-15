@@ -1,0 +1,117 @@
+[
+  {
+    "company": {
+      "codeCVM": "016748",
+      "companyName": "CIA RIOGRANDENSE DE SANEAMENTO",
+      "tradingName": "CORSAN"
+    },
+    "dateReference": "31/12/2019",
+    "delivery": "Reapresentação",
+    "deliveryDate": "08/12/2021 09:44:48",
+    "status": "Inativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "2",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=110637",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=110637&numVersao=2&numProtocolo=016748DFP311220190200110637-71&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2021-12-08T09:44:48",
+    "dateTimeReference": "2019-12-31T00:00:00",
+    "tradingName": "CIA RIOGRANDENSE DE SANEAMENTO"
+  },
+  {
+    "company": {
+      "codeCVM": "016748",
+      "companyName": "CIA RIOGRANDENSE DE SANEAMENTO",
+      "tradingName": "CORSAN"
+    },
+    "dateReference": "31/12/2018",
+    "delivery": "Reapresentação",
+    "deliveryDate": "08/12/2021 09:41:27",
+    "status": "Inativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "2",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=110636",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=110636&numVersao=2&numProtocolo=016748DFP311220180200110636-73&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2021-12-08T09:41:27",
+    "dateTimeReference": "2018-12-31T00:00:00",
+    "tradingName": "CIA RIOGRANDENSE DE SANEAMENTO"
+  },
+  {
+    "company": {
+      "codeCVM": "015369",
+      "companyName": "FERROVIA CENTRO-ATLANTICA S.A.",
+      "tradingName": "FER C ATLANT"
+    },
+    "dateReference": "31/12/2020",
+    "delivery": "Reapresentação",
+    "deliveryDate": "09/11/2021 08:47:02",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "3",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=109537",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=109537&numVersao=3&numProtocolo=015369DFP311220200300109537-70&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2021-11-09T08:47:02",
+    "dateTimeReference": "2020-12-31T00:00:00",
+    "tradingName": "FERROVIA CENTRO-ATLANTICA S.A."
+  },
+  {
+    "company": {
+      "codeCVM": "021814",
+      "companyName": "FERROVIA NORTE SUL S/A",
+      "tradingName": "FERROVNS"
+    },
+    "dateReference": "31/12/2020",
+    "delivery": "Reapresentação",
+    "deliveryDate": "09/11/2021 08:52:37",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "2",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=109538",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=109538&numVersao=2&numProtocolo=021814DFP311220200200109538-75&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2021-11-09T08:52:37",
+    "dateTimeReference": "2020-12-31T00:00:00",
+    "tradingName": "FERROVIA NORTE SUL S/A"
+  },
+  {
+    "company": {
+      "codeCVM": "025089",
+      "companyName": "Pet Center Comércio e Participações S.A.",
+      "tradingName": "PETZ"
+    },
+    "dateReference": "31/12/2020",
+    "delivery": "Reapresentação",
+    "deliveryDate": "10/11/2021 00:12:27",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "3",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=109623",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=109623&numVersao=3&numProtocolo=025089DFP311220200300109623-78&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2021-11-10T00:12:27",
+    "dateTimeReference": "2020-12-31T00:00:00",
+    "tradingName": "Pet Center Comércio e Participações S.A."
+  }
+]

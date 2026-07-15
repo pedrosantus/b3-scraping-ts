@@ -1,0 +1,163 @@
+[
+  {
+    "company": {
+      "codeCVM": "027243",
+      "companyName": "CLI Sul S.A.",
+      "tradingName": "CLI SUL S.A."
+    },
+    "dateReference": "31/12/2022",
+    "delivery": "Apresentação",
+    "deliveryDate": "14/07/2023 18:19:51",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=126214",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=126214&numVersao=1&numProtocolo=095281DFP311220220100126214-64&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2023-07-14T18:19:51",
+    "dateTimeReference": "2022-12-31T00:00:00",
+    "tradingName": "CLI Sul S.A."
+  },
+  {
+    "company": {
+      "codeCVM": "027260",
+      "companyName": "Corredor Logística e Infraestrutura S.A.",
+      "tradingName": "CORREDOR LOG"
+    },
+    "dateReference": "31/12/2022",
+    "delivery": "Apresentação",
+    "deliveryDate": "19/07/2023 22:07:20",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=126197",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=126197&numVersao=1&numProtocolo=095290DFP311220220100126197-72&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2023-07-19T22:07:20",
+    "dateTimeReference": "2022-12-31T00:00:00",
+    "tradingName": "Corredor Logística e Infraestrutura S.A."
+  },
+  {
+    "company": {
+      "codeCVM": "024350",
+      "companyName": "FLEX GESTÃO DE RELACIONAMENTOS S.A.-Em Recuperação Judicial",
+      "tradingName": "FLEX S/A"
+    },
+    "dateReference": "31/12/2022",
+    "delivery": "Apresentação",
+    "deliveryDate": "07/07/2023 19:37:37",
+    "status": "Inativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=128881",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=128881&numVersao=1&numProtocolo=024350DFP311220220100128881-72&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2023-07-07T19:37:37",
+    "dateTimeReference": "2022-12-31T00:00:00",
+    "tradingName": "FLEX GESTÃO DE RELACIONAMENTOS S.A.-Em Recuperação Judicial"
+  },
+  {
+    "company": {
+      "codeCVM": "027251",
+      "companyName": "Inspirali Educação S.A.",
+      "tradingName": "INSPIRALI SA"
+    },
+    "dateReference": "31/12/2022",
+    "delivery": "Apresentação",
+    "deliveryDate": "24/07/2023 15:49:39",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=126449",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=126449&numVersao=1&numProtocolo=095150DFP311220220100126449-64&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2023-07-24T15:49:39",
+    "dateTimeReference": "2022-12-31T00:00:00",
+    "tradingName": "Inspirali Educação S.A."
+  },
+  {
+    "company": {
+      "codeCVM": "020915",
+      "companyName": "MRV ENGENHARIA E PARTICIPACOES S.A.",
+      "tradingName": "MRV"
+    },
+    "dateReference": "31/12/2022",
+    "delivery": "Reapresentação",
+    "deliveryDate": "06/07/2023 04:05:50",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "2",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=128798",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=128798&numVersao=2&numProtocolo=020915DFP311220220200128798-71&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2023-07-06T04:05:50",
+    "dateTimeReference": "2022-12-31T00:00:00",
+    "tradingName": "MRV ENGENHARIA E PARTICIPACOES S.A."
+  },
+  {
+    "company": {
+      "codeCVM": "020915",
+      "companyName": "MRV ENGENHARIA E PARTICIPACOES S.A.",
+      "tradingName": "MRV"
+    },
+    "dateReference": "31/12/2021",
+    "delivery": "Reapresentação",
+    "deliveryDate": "06/07/2023 04:02:38",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "2",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=128797",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=128797&numVersao=2&numProtocolo=020915DFP311220210200128797-70&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2023-07-06T04:02:38",
+    "dateTimeReference": "2021-12-31T00:00:00",
+    "tradingName": "MRV ENGENHARIA E PARTICIPACOES S.A."
+  },
+  {
+    "company": {
+      "codeCVM": "009989",
+      "companyName": "REFINARIA DE PETROLEOS MANGUINHOS S.A.",
+      "tradingName": "PET MANGUINH"
+    },
+    "dateReference": "31/12/2022",
+    "delivery": "Apresentação",
+    "deliveryDate": "28/07/2023 17:14:48",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=129323",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=129323&numVersao=1&numProtocolo=009989DFP311220220100129323-65&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2023-07-28T17:14:48",
+    "dateTimeReference": "2022-12-31T00:00:00",
+    "tradingName": "REFINARIA DE PETROLEOS MANGUINHOS S.A."
+  }
+]

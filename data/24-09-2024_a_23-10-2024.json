@@ -1,0 +1,117 @@
+[
+  {
+    "company": {
+      "codeCVM": "027693",
+      "companyName": "BRISANET SERVIÇOS DE TELECOMUNICAÇÕES S.A.",
+      "tradingName": "BRISANET"
+    },
+    "dateReference": "31/12/2023",
+    "delivery": "Apresentação",
+    "deliveryDate": "03/10/2024 19:27:11",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=139997",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=139997&numVersao=1&numProtocolo=095958DFP311220230100139997-78&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2024-10-03T19:27:11",
+    "dateTimeReference": "2023-12-31T00:00:00",
+    "tradingName": "BRISANET SERVIÇOS DE TELECOMUNICAÇÕES S.A."
+  },
+  {
+    "company": {
+      "codeCVM": "023981",
+      "companyName": "CTC - CENTRO DE TECNOLOGIA CANAVIEIRA S.A.",
+      "tradingName": "CTC S.A."
+    },
+    "dateReference": "31/03/2024",
+    "delivery": "Reapresentação",
+    "deliveryDate": "07/10/2024 12:03:52",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "3",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=142069",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=142069&numVersao=3&numProtocolo=023981DFP310320240300142069-75&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2024-10-07T12:03:52",
+    "dateTimeReference": "2024-03-31T00:00:00",
+    "tradingName": "CTC - CENTRO DE TECNOLOGIA CANAVIEIRA S.A."
+  },
+  {
+    "company": {
+      "codeCVM": "027715",
+      "companyName": "EPR Infraestrutura PR S.A.",
+      "tradingName": "EPR INFRA"
+    },
+    "dateReference": "31/12/2023",
+    "delivery": "Apresentação",
+    "deliveryDate": "01/10/2024 19:19:01",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=141982",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=141982&numVersao=1&numProtocolo=096008DFP311220230100141982-79&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2024-10-01T19:19:01",
+    "dateTimeReference": "2023-12-31T00:00:00",
+    "tradingName": "EPR Infraestrutura PR S.A."
+  },
+  {
+    "company": {
+      "codeCVM": "027723",
+      "companyName": "EPR Litoral Pioneiro S.A.",
+      "tradingName": "EPRLIPIOSA"
+    },
+    "dateReference": "31/12/2023",
+    "delivery": "Apresentação",
+    "deliveryDate": "01/10/2024 19:27:59",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=141983",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=141983&numVersao=1&numProtocolo=095990DFP311220230100141983-78&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2024-10-01T19:27:59",
+    "dateTimeReference": "2023-12-31T00:00:00",
+    "tradingName": "EPR Litoral Pioneiro S.A."
+  },
+  {
+    "company": {
+      "codeCVM": "027740",
+      "companyName": "PRIO Forte S.A.",
+      "tradingName": "PRIO FORTE"
+    },
+    "dateReference": "31/12/2023",
+    "delivery": "Apresentação",
+    "deliveryDate": "22/10/2024 20:57:33",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=142300",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=142300&numVersao=1&numProtocolo=096105DFP311220230100142300-78&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2024-10-22T20:57:33",
+    "dateTimeReference": "2023-12-31T00:00:00",
+    "tradingName": "PRIO Forte S.A."
+  }
+]

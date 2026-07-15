@@ -1,0 +1,117 @@
+[
+  {
+    "company": {
+      "codeCVM": "020036",
+      "companyName": "BRASILAGRO - CIA BRAS DE PROP AGRICOLAS",
+      "tradingName": "BRASILAGRO"
+    },
+    "dateReference": "30/06/2021",
+    "delivery": "Apresentação",
+    "deliveryDate": "31/08/2021 22:44:26",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=108390",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=108390&numVersao=1&numProtocolo=020036DFP300620210100108390-77&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2021-08-31T22:44:26",
+    "dateTimeReference": "2021-06-30T00:00:00",
+    "tradingName": "BRASILAGRO - CIA BRAS DE PROP AGRICOLAS"
+  },
+  {
+    "company": {
+      "codeCVM": "014206",
+      "companyName": "BRB BANCO DE BRASILIA S.A.",
+      "tradingName": "BRB BANCO"
+    },
+    "dateReference": "31/12/2020",
+    "delivery": "Reapresentação",
+    "deliveryDate": "27/08/2021 16:54:09",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "4",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=108328",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=108328&numVersao=4&numProtocolo=014206DFP311220200400108328-73&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2021-08-27T16:54:09",
+    "dateTimeReference": "2020-12-31T00:00:00",
+    "tradingName": "BRB BANCO DE BRASILIA S.A."
+  },
+  {
+    "company": {
+      "codeCVM": "026522",
+      "companyName": "CERRADINHO BIOENERGIA S.A.",
+      "tradingName": "CERRADINHO"
+    },
+    "dateReference": "31/03/2021",
+    "delivery": "Apresentação",
+    "deliveryDate": "20/08/2021 21:26:26",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=108203",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=108203&numVersao=1&numProtocolo=093823DFP310320210100108203-73&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2021-08-20T21:26:26",
+    "dateTimeReference": "2021-03-31T00:00:00",
+    "tradingName": "CERRADINHO BIOENERGIA S.A."
+  },
+  {
+    "company": {
+      "codeCVM": "026271",
+      "companyName": "ENVIRONMENTAL ESG PARTICIPAÇÕES S.A.",
+      "tradingName": "ENVIRONMENT"
+    },
+    "dateReference": "31/12/2020",
+    "delivery": "Apresentação",
+    "deliveryDate": "18/08/2021 17:03:39",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=108134",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=108134&numVersao=1&numProtocolo=093777DFP311220200100108134-79&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2021-08-18T17:03:39",
+    "dateTimeReference": "2020-12-31T00:00:00",
+    "tradingName": "ENVIRONMENTAL ESG PARTICIPAÇÕES S.A."
+  },
+  {
+    "company": {
+      "codeCVM": "026255",
+      "companyName": "Tigre S.A. Participações",
+      "tradingName": "TIGRE"
+    },
+    "dateReference": "31/12/2020",
+    "delivery": "Apresentação",
+    "deliveryDate": "23/08/2021 21:38:16",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=108226",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=108226&numVersao=1&numProtocolo=093815DFP311220200100108226-79&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2021-08-23T21:38:16",
+    "dateTimeReference": "2020-12-31T00:00:00",
+    "tradingName": "Tigre S.A. Participações"
+  }
+]

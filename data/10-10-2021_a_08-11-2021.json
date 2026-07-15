@@ -1,0 +1,94 @@
+[
+  {
+    "company": {
+      "codeCVM": "026425",
+      "companyName": "Aço Verde do Brasil S.A",
+      "tradingName": "ACO VERDE"
+    },
+    "dateReference": "31/12/2020",
+    "delivery": "Apresentação",
+    "deliveryDate": "11/10/2021 18:45:41",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=108098",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=108098&numVersao=1&numProtocolo=093769DFP311220200100108098-81&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2021-10-11T18:45:41",
+    "dateTimeReference": "2020-12-31T00:00:00",
+    "tradingName": "Aço Verde do Brasil S.A"
+  },
+  {
+    "company": {
+      "codeCVM": "026590",
+      "companyName": "AURA ALMAS MINERAÇÃO S.A.",
+      "tradingName": "AURAALMASMIN"
+    },
+    "dateReference": "31/12/2020",
+    "delivery": "Apresentação",
+    "deliveryDate": "25/10/2021 18:25:02",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=109178",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=109178&numVersao=1&numProtocolo=094021DFP311220200100109178-81&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2021-10-25T18:25:02",
+    "dateTimeReference": "2020-12-31T00:00:00",
+    "tradingName": "AURA ALMAS MINERAÇÃO S.A."
+  },
+  {
+    "company": {
+      "codeCVM": "026638",
+      "companyName": "CONCESSIONARIA ECOVIAS DO ARAGUAIA S.A.",
+      "tradingName": "ECAR"
+    },
+    "dateReference": "31/12/2020",
+    "delivery": "Apresentação",
+    "deliveryDate": "19/10/2021 14:13:15",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=109078",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=109078&numVersao=1&numProtocolo=093939DFP311220200100109078-71&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2021-10-19T14:13:15",
+    "dateTimeReference": "2020-12-31T00:00:00",
+    "tradingName": "CONCESSIONARIA ECOVIAS DO ARAGUAIA S.A."
+  },
+  {
+    "company": {
+      "codeCVM": "026581",
+      "companyName": "CONCESSIONÁRIA ECOVIAS DO CERRADO S.A.",
+      "tradingName": "CONCECOVIAS"
+    },
+    "dateReference": "31/12/2020",
+    "delivery": "Apresentação",
+    "deliveryDate": "19/10/2021 14:05:39",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=109076",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=109076&numVersao=1&numProtocolo=093920DFP311220200100109076-74&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2021-10-19T14:05:39",
+    "dateTimeReference": "2020-12-31T00:00:00",
+    "tradingName": "CONCESSIONÁRIA ECOVIAS DO CERRADO S.A."
+  }
+]

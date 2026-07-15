@@ -1,0 +1,48 @@
+[
+  {
+    "company": {
+      "codeCVM": "025771",
+      "companyName": "Hospital Care Caledonia S.A.",
+      "tradingName": "HOSPITALCARE"
+    },
+    "dateReference": "31/12/2024",
+    "delivery": "Reapresentação",
+    "deliveryDate": "09/08/2025 02:01:48",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "2",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=150829",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=150829&numVersao=2&numProtocolo=025771DFP311220240200150829-75&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2025-08-09T02:01:48",
+    "dateTimeReference": "2024-12-31T00:00:00",
+    "tradingName": "Hospital Care Caledonia S.A."
+  },
+  {
+    "company": {
+      "codeCVM": "026824",
+      "companyName": "Travessia Securitizadora de Créditos Mercantis VI S.A.",
+      "tradingName": "TRAVSECVISA"
+    },
+    "dateReference": "31/12/2024",
+    "delivery": "Apresentação",
+    "deliveryDate": "14/08/2025 17:08:08",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "1",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=151243",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=151243&numVersao=1&numProtocolo=026824DFP311220240100151243-69&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2025-08-14T17:08:08",
+    "dateTimeReference": "2024-12-31T00:00:00",
+    "tradingName": "Travessia Securitizadora de Créditos Mercantis VI S.A."
+  }
+]

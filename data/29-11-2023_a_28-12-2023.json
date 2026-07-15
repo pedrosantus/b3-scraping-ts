@@ -1,0 +1,94 @@
+[
+  {
+    "company": {
+      "codeCVM": "020044",
+      "companyName": "CSU DIGITAL S.A.",
+      "tradingName": "CSU DIGITAL"
+    },
+    "dateReference": "31/12/2022",
+    "delivery": "Reapresentação",
+    "deliveryDate": "26/12/2023 18:13:02",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "2",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=133295",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=133295&numVersao=2&numProtocolo=020044DFP311220220200133295-63&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2023-12-26T18:13:02",
+    "dateTimeReference": "2022-12-31T00:00:00",
+    "tradingName": "CSU DIGITAL S.A."
+  },
+  {
+    "company": {
+      "codeCVM": "017329",
+      "companyName": "ENGIE BRASIL ENERGIA S.A.",
+      "tradingName": "ENGIE BRASIL"
+    },
+    "dateReference": "31/12/2022",
+    "delivery": "Reapresentação",
+    "deliveryDate": "30/11/2023 21:27:46",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "2",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=132868",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=132868&numVersao=2&numProtocolo=017329DFP311220220200132868-62&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2023-11-30T21:27:46",
+    "dateTimeReference": "2022-12-31T00:00:00",
+    "tradingName": "ENGIE BRASIL ENERGIA S.A."
+  },
+  {
+    "company": {
+      "codeCVM": "017892",
+      "companyName": "SANTOS BRASIL PARTICIPACOES S.A.",
+      "tradingName": "SANTOS BRP"
+    },
+    "dateReference": "31/12/2022",
+    "delivery": "Reapresentação",
+    "deliveryDate": "29/11/2023 18:32:37",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "2",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=132843",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=132843&numVersao=2&numProtocolo=017892DFP311220220200132843-64&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2023-11-29T18:32:37",
+    "dateTimeReference": "2022-12-31T00:00:00",
+    "tradingName": "SANTOS BRASIL PARTICIPACOES S.A."
+  },
+  {
+    "company": {
+      "codeCVM": "021440",
+      "companyName": "VESTE S.A. ESTILO",
+      "tradingName": "VESTE"
+    },
+    "dateReference": "31/12/2022",
+    "delivery": "Reapresentação",
+    "deliveryDate": "30/11/2023 11:45:36",
+    "status": "Ativo",
+    "category": "DFP-Demonstrações Financeiras Padronizadas",
+    "type": "",
+    "kind": "",
+    "version": "2",
+    "subject": null,
+    "dateCancel": "",
+    "publishLocations": [],
+    "urlSearch": "https://www.rad.cvm.gov.br/ENETWEB/frmNBC.aspx?NSD=132849",
+    "urlDownload": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=132849&numVersao=2&numProtocolo=021440DFP311220220200132849-67&descTipo=Demonstrações Financeiras Padronizadas&CodigoInstituicao=1",
+    "deliveryDateTime": "2023-11-30T11:45:36",
+    "dateTimeReference": "2022-12-31T00:00:00",
+    "tradingName": "VESTE S.A. ESTILO"
+  }
+]
