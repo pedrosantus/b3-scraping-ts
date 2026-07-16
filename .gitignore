@@ -1,4 +1,3 @@
-
 # Playwright
 node_modules/
 /test-results/
@@ -7,3 +6,4 @@ node_modules/
 /playwright/.cache/
 /playwright/.auth/
 /data/*.json
+dados.json
